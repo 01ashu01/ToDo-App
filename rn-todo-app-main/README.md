@@ -26,8 +26,4 @@ Libraries used in this project
 ## App Screenshot
 ![React Native ToDo App](./todo-app-iphone-demo.png)
 
-## Watch it on YouTube
 
-This repository is part of a tutorial on my [YouTube channel](https://www.youtube.com/@itzpradip). Check out the complete tutorial on YouTube by clicking below. 👇
-
-[![React Native ToDo App Tutorial for Beginners](https://img.youtube.com/vi/CfSK9niSAxY/0.jpg)](https://youtu.be/CfSK9niSAxY)
